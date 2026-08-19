@@ -21,6 +21,10 @@
 
 ---
 
+<div align="center">
+<img src="assets/hero-image.png" alt="Board Game Designer Hero" width="600" />
+</div>
+
 ## 效果示例
 
 > 💡 完整实战案例见 [examples/dunhuang-9-card-game/](examples/dunhuang-9-card-game/)——从"做一个敦煌9卡游戏"的想法到可测试原型的全过程。
