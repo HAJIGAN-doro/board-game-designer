@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner.png" alt="Board Game Designer Banner" />
+<img src="assets/banner.png" alt="Board Game Designer Banner" />
 
 # Board Game Designer · 桌游设计师
 
